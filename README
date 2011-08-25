@@ -1,0 +1,17 @@
+emacs major modes for languages from tecs
+* asm
+* vm
+* jack
+
+the goal is to get something with 
+* syntax-highlighting (including keywords)
+* proper indentation
+
+we could also do a mode for the .hack files that would be a
+disassembler, split window vertically and display the lines as D=C;J
+on the other side (and scroll/highlight both buffers when either moves).
+
+resources used:
+* http://www.gnu.org/software/emacs/elisp/html_node/Example-Major-Modes.html
+* http://xahlee.org/emacs/elisp_syntax_coloring.html
+* http://xahlee.org/emacs/elisp_comment_handling.html
